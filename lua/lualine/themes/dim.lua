@@ -1,7 +1,7 @@
 -- Colorscheme for lualine
 
 local colors = {
-    bg = "#151515",
+    bg = "#000000",
     fg = "#a6a6a6",
     blue = "#717f87",
     green = "#65763e",
